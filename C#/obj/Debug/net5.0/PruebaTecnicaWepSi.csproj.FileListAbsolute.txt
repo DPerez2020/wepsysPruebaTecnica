@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\bin\Debug\net5.0\PruebaTecnicaWepSi.exe
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\bin\Debug\net5.0\PruebaTecnicaWepSi.deps.json
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\bin\Debug\net5.0\PruebaTecnicaWepSi.runtimeconfig.json
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\bin\Debug\net5.0\PruebaTecnicaWepSi.runtimeconfig.dev.json
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\bin\Debug\net5.0\PruebaTecnicaWepSi.dll
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\bin\Debug\net5.0\ref\PruebaTecnicaWepSi.dll
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\bin\Debug\net5.0\PruebaTecnicaWepSi.pdb
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\obj\Debug\net5.0\PruebaTecnicaWepSi.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\obj\Debug\net5.0\PruebaTecnicaWepSi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\obj\Debug\net5.0\PruebaTecnicaWepSi.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\obj\Debug\net5.0\PruebaTecnicaWepSi.AssemblyInfo.cs
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\obj\Debug\net5.0\PruebaTecnicaWepSi.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\obj\Debug\net5.0\PruebaTecnicaWepSi.dll
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\obj\Debug\net5.0\ref\PruebaTecnicaWepSi.dll
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\obj\Debug\net5.0\PruebaTecnicaWepSi.pdb
+C:\Users\HP\source\repos\PruebaTecnicaWepSi\obj\Debug\net5.0\PruebaTecnicaWepSi.genruntimeconfig.cache

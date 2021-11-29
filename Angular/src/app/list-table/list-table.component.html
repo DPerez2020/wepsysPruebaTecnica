@@ -1,0 +1,18 @@
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Correo</th>
+            <th>Accion</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of usuarios" >
+            <td>{{item.Nombre}}</td>
+            <td>{{item.Apellido}}</td>
+            <td>{{item.Correo}}</td>
+            <td><button (click)="eliminarUsuario(item)" >Eliminar</button></td>
+        </tr>
+    </tbody>
+</table>

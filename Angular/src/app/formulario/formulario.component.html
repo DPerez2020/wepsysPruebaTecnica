@@ -1,0 +1,11 @@
+<div>
+    <form [formGroup]="formGroup">
+        <label>Nombre</label>
+        <input type="text" formControlName="Nombre" />
+        <label>Apellido</label>
+        <input type="text" formControlName="Apellido"/>
+        <label>Correo</label>
+        <input type="email" formControlName="Correo"/>
+    </form>
+    <button (click)="agregarUsuario()" [disabled]="!this.formGroup.valid" >Agregar</button>
+</div>
